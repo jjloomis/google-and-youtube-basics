@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Creating a Google account](creating-a-google-account.md)
+* [Creating a Google Account](creating-a-google-account.md)
 * [Signing in to YouTube](signing-into-youtube.md)
 * [Using Creator Studio](using-creator-studio.md)
 * [Uploading videos](uploading-videos.md)
