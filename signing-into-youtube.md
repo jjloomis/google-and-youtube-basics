@@ -1,4 +1,4 @@
-# Signing into YouTube
+# Signing in to YouTube
 
 1. Go to [youtube.com](https://www.youtube.com/).
 2. Use your Google account credentials to sign in.
