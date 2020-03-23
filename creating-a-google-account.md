@@ -9,7 +9,7 @@ A Google account gives you access to YouTube, Google Analytics, and Gmail. Use y
 5. You will be prompted to Verify your account via text message. Enter your phone number and click **Continue**.
 6. You will receive a verification code on your phone. Enter this code in the browser and click **Continue**.
 7. You are now logged into Google. In the upper-right corner of the browser, click the **drop-down** arrow and click **Account** to access your account settings. 
-8. Use your Google account credentials \(username and password\) to sign into YouTube, Gmail, and Google Analytics. 
+8. Use your Google account credentials \(username and password\) to sign into Google Drive, Gmail, Google Analytics, and YouTube.
 
 
 
