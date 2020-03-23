@@ -6,8 +6,7 @@
 * [Uploading a file to Google Drive](uploading-a-file-to-google-drive.md)
 * [Signing in to YouTube](signing-into-youtube.md)
 * [Using Creator Studio](using-creator-studio.md)
-* [Uploading a video from your home computer](uploading-a-video-from-your-home-computer.md)
-* [Uploading a video from a JAMS Lab or CCL Mac ](uploading-videos.md)
-* [Accessing videos you've uploaded](accessing-videos-youve-uploaded.md)
 * [Uploading a video file to YouTube](uploading-a-video-file-to-youtube.md)
+* [Accessing videos you've uploaded](accessing-videos-youve-uploaded.md)
+* [Sharing a file on Google Drive](sharing-a-file-on-google-drive.md)
 
