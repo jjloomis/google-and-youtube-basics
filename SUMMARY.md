@@ -8,5 +8,5 @@
 * [Using Creator Studio](using-creator-studio.md)
 * [Uploading a video file to YouTube](uploading-a-video-file-to-youtube.md)
 * [Accessing videos you've uploaded](accessing-videos-youve-uploaded.md)
-* [Sharing a file from Google Drive](sharing-a-file-from-google-drive.md)
+* [Creating a shareable link to a file on Google Drive](creating-a-shareable-link-to-a-file-on-google-drive.md)
 
