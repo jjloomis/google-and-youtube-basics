@@ -1,4 +1,4 @@
-# Uploading a video file to YouTube \(use this\)
+# Uploading a video file to YouTube
 
 With a standard \(free\) account, videos uploaded to YouTube cannot exceed 20 gigs in size or 15 minutes in duration.
 
