@@ -11,5 +11,7 @@ A Google Account gives you access to Google Drive, YouTube, Google Analytics, an
 7. You are now logged in to your Google Account. In the upper-right corner of the browser, click the **drop-down** arrow and click **Account** to access your account settings. 
 8. Use your Google Account credentials \(username and password\) to sign into Google Drive, Gmail, Google Analytics, and YouTube.
 
+![](/assets/google-main.png)
+
 
 
