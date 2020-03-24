@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 
-## Google
+## Google Account
 
 * [Creating a Google Account](creating-a-google-account.md)
 * [Signing in to your Google Account](signing-in-to-your-google-account.md)
