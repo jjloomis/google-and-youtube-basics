@@ -11,5 +11,7 @@
 
 6. A box in the lower-right corner of screen will display the upload progess. \(**Note**: Upload times will vary due to file size and network speed.\)
 
+![](/assets/uploading-a-file-to-goolge-drive.png)
+
 
 
