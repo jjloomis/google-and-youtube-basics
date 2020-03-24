@@ -12,7 +12,7 @@ PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](ht
 
 ## GitHub
 
-To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/youtube-account-basics).
+To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/google-and-youtube-basics).
 
 ## License
 
