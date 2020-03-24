@@ -1,6 +1,6 @@
-# YouTube Account Basics
+# Google and YouTube Account Basics
 
-YouTube Accounts Basics: Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
+Google and YouTube Account Basics: Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
 
 ## Credits
 
@@ -19,6 +19,4 @@ To fork this GitBook, make suggestions, or contribute content, visit the [GitHub
 This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
-
-Test. 3/22/2020
 
