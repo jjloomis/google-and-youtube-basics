@@ -5,5 +5,5 @@
 3. In the fly-out menu, select **Get shareable link**. A link to the file will be copied to your computer's clipboard.
 4. Paste this link anywhere you'd like it to appear \(in an email to your instructor, for example.\) Anyone with access to this link will be able to download a copy of your file. 
 
-
+![](/assets/get-shareable-link.png)
 
