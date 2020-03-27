@@ -14,5 +14,7 @@ You don't need a Google Account to download a folder from Google Drive. However,
 2. Hover your mouse over the folder you'd like to download. A **Download** button \(down arrow\) will appear above the folder.
 3. Click the **Download** button. 
 
+![](/assets/downloading-a-folder-google-drive-not-signed-in.png)
+
 
 
