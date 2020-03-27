@@ -11,6 +11,8 @@
 * [Uploading a file to Google Drive](uploading-a-file-to-google-drive.md)
 * [Uploading a folder to Google Drive](uploading-a-folder-to-google-drive.md)
 * [Creating a shareable link to a file on Google Drive](creating-a-shareable-link-to-a-file-on-google-drive.md)
+* [Creating a shareable link to a folder on Google Drive](creating-a-shareable-link-to-a-folder-on-google-drive.md)
+* [Downloading a file from Google Drive](downloading-a-file-from-google-drive.md)
 
 ## YouTube
 
