@@ -10,6 +10,7 @@
 * [Signing in to your Google Account](signing-in-to-your-google-account.md)
 * [Uploading a file to Google Drive](uploading-a-file-to-google-drive.md)
 * [Creating a shareable link to a file on Google Drive](creating-a-shareable-link-to-a-file-on-google-drive.md)
+* [Uploading a folder to Google Drive](uploading-a-folder-to-google-drive.md)
 
 ## YouTube
 
