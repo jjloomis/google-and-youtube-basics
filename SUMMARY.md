@@ -3,7 +3,6 @@
 ## Introduction
 
 * [Introduction](README.md)
-* [Accessing a video you've uploaded to YouTube](accessing-a-video-youve-uploaded-to-youtube.md)
 
 ## Google Account
 
@@ -21,5 +20,6 @@
 * [Signing in to YouTube](signing-into-youtube.md)
 * [Using Creator Studio](using-creator-studio.md)
 * [Uploading a video file to YouTube](uploading-a-video-file-to-youtube.md)
+* [Accessing a video you've uploaded to YouTube](accessing-a-video-youve-uploaded-to-youtube.md)
 * [Embedding a video in a WordPress site](embedding-a-video-in-a-wordpress-site.md)
 
