@@ -22,4 +22,5 @@
 * [Uploading a video file to YouTube](uploading-a-video-file-to-youtube.md)
 * [Accessing a video you've uploaded to YouTube](accessing-a-video-youve-uploaded-to-youtube.md)
 * [Embedding a video in a WordPress site](embedding-a-video-in-a-wordpress-site.md)
+* [Verifying your YouTube account](verifying-your-youtube-account.md)
 
