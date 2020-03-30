@@ -3,6 +3,7 @@
 ## Introduction
 
 * [Introduction](README.md)
+* [Accessing a video you've uploaded to YouTube](accessing-a-video-youve-uploaded-to-youtube.md)
 
 ## Google Account
 
