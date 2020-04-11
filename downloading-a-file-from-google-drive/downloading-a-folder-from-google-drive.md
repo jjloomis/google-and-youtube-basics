@@ -6,7 +6,8 @@ You don't need a Google Account to download a folder from Google Drive. However,
 
 1. Click link to folder on Google Drive. Your Google Drive will open.
 2. Control-click \(Mac\) or right-click \(PC\) the folder you'd like to download. 
-3. In the fly-out menu, select **Download**.
+3. In the fly-out menu, select **Download**. Google Drive will zip the file before proceeding with the download process. Zip and download times will vary depending on the size of the folder and network speed.
+4. When the download is complete, a ZIP file will appear in your **Downloads** folder. Double-click the ZIP file to uncompress the folder. 
 
 ## Not signed in to Google Drive
 
