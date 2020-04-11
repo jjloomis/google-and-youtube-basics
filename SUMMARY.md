@@ -24,3 +24,7 @@
 * [Embedding a video in a WordPress site](embedding-a-video-in-a-wordpress-site.md)
 * [Verifying your YouTube account](verifying-your-youtube-account.md)
 
+## Troubleshooting
+
+* [Content of Google Drive folder appears instead of folder itself](troubleshooting/content-of-google-drive-folder-appears-instead-of-folder-itself.md)
+
