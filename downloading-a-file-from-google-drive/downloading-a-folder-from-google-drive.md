@@ -2,6 +2,8 @@
 
 You don't need a Google Account to download a folder from Google Drive. However, the way in which you download a folder differs depending on whether or not you're signed into a Google Account. Both approaches are covered below.
 
+**Note**: If the content of a Google Drive folder appears instead of the folder itself, you can still [download the shared folder](/troubleshooting/content-of-google-drive-folder-appears-instead-of-folder-itself.md). 
+
 ## Singed in to Google Drive
 
 1. Click link to folder on Google Drive. Your Google Drive will open.
