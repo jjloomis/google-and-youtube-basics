@@ -8,7 +8,7 @@ After [signing in to your Google Account](/signing-in-to-your-google-account.md)
 
 3. In the fly-out menu, select **Folder upload**.
 
-4. Navigate to and select the file you'd like to upload. Click **Open**.
+4. Navigate to and select the folder you'd like to upload. Click **Open**.
 
 5. A dialog box may appear asking if you want to upload all of the files in the folder to Google Drive. Click **Upload** to start the upload process
 
